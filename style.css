@@ -30,13 +30,13 @@ a:hover {
 
 
   .container {
-    width: 700px;
+    width: 800px;
     margin: 0 auto;
   }
 
 @media (max-width: 720px) {
   .container {
-    width: 500px;
+    width: 600px;
     margin: 0 auto;
   }
 }
